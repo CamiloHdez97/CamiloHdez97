@@ -1,4 +1,4 @@
-<img src="https://www.reddit.com/r/CatGifs/comments/640py3/meet_the_new_it_guy_xpost_raww/?st=j180my0k&sh=2230295e" style="width: 200px">
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" style="width: 200px">
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/camilo_hdez) 
 
