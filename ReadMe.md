@@ -1,4 +1,8 @@
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" style="width: 200px">
+<h1>Hi, I'm Camilo Hernandez</h1>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" style="width: 200px">
+</div>
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/camilo_hdez) 
 
